@@ -1,0 +1,20 @@
+{
+  "name": "elemi-tales",
+  "version": "1.0.0",
+  "description": "엘레미 테일즈 – 원소 퍼즐 게임",
+  "scripts": {
+    "sync": "npx cap sync android",
+    "open": "npx cap open android",
+    "serve": "python3 -m http.server 8080 -d www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@fontsource/gowun-dodum": "^5.3.0",
+    "@fontsource/jua": "^5.3.0"
+  },
+  "private": true
+}

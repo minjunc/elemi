@@ -1,0 +1,7 @@
+{
+  "appId": "com.elemitales.game",
+  "appName": "엘레미 테일즈",
+  "webDir": "www",
+  "backgroundColor": "#EEF0FB",
+  "android": { "backgroundColor": "#EEF0FB" }
+}
