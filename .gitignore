@@ -3,5 +3,7 @@ android/app/build/
 android/build/
 android/.gradle/
 android/local.properties
-*.zip
-pwa_*.png
+/*.zip
+/pwa_*.png
+/splash.png
+/icon_fg.png
