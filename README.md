@@ -2,6 +2,9 @@
 
 둥둥이가 원소 구슬을 먹고 변신해 길을 여는 퍼즐 게임. 6월드 × 10스테이지.
 
+**📱 안드로이드 APK 바로 받기:** https://github.com/minjunc/elemi/releases/download/latest/elemi-tales.apk
+(main 브랜치에 올릴 때마다 자동으로 새로 빌드돼요.)
+
 ## 폴더 구성
 - `www/` – 게임 본체(웹앱). 이 폴더만 있으면 어디서든 실행돼요. 인터넷 없이도 동작해요.
 - `android/` – 안드로이드 앱 프로젝트 (Capacitor). Android Studio로 열 수 있어요.
